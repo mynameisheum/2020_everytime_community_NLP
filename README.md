@@ -14,6 +14,7 @@
 - 각 커뮤니티마다 고유의 분위기가 있음을 인지, 
 - 각 커뮤니티는 각 대학교로 대처할수 있고, 그중 게시판 중에 특성이 가장 두드러진 연애게시판을 선택 
 - embedding 시각화를 통해 확인하고 특정 단어들을 뽑아 근거 있는 캐릭터화 설정
+![ex](https://github.com/mynameisheum/2020_everytime_community_NLP/blob/main/Data/character/3.embedding-visualization.png?raw=true)
 
 ### 감정분석(Sentiment Analysis)
 - 최근 악성댓글의 위험성을 인지
